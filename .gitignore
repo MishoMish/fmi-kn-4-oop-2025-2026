@@ -1,0 +1,25 @@
+# Build outputs
+*.o
+*.out
+*.exe
+*.obj
+*.dll
+*.so
+*.dylib
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Compiled binaries
+a.out
+build/
+bin/
+
+# Practicum folder — reserved for colleagues
+Practicum/
